@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)  
   
 
-- 🌱 I’m currently learning NodeJS and MongoDB  
+- 🌱 I’m currently learning <b>NodeJS</b> and <b>MongoDB</b>
   
 
-- ❓ Ask me about anything related to Javascript, Vue JS, Nuxt JS.  
+- ❓ Ask me about anything related to <b>Javascript</b>, <b>Vue JS<b>, <b>Nuxt JS</b>.  
   
 
 <br/>  
