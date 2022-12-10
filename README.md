@@ -16,6 +16,9 @@
   
 
 <br/>  
+  
+## Daily.dev Card
+<a href="https://app.daily.dev/Sj"><img src="https://api.daily.dev/devcards/92c8ab287bbf464db828a1c92b905a61.png?r=t9e" width="400" alt="Subrat kumar jena's Dev Card"/></a>
 
 
 ## My Skill Set  
@@ -57,6 +60,7 @@
 </table>  
 
 <br/>  
+  
 
 
 ## Connect with me  
@@ -76,6 +80,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subrat611&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-  
-## Daily.dev Card
-<a href="https://app.daily.dev/Sj"><img src="https://api.daily.dev/devcards/92c8ab287bbf464db828a1c92b905a61.png?r=t9e" width="400" alt="Subrat kumar jena's Dev Card"/></a>
