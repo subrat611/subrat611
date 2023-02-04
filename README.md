@@ -6,8 +6,9 @@
 ### <div align="center">I'm Subrat Jena, a Frontend developer 👨‍💻 .</div>  
   
 
-- 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)  
-  
+- 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)
+
+- My weekly project [tip-calculator-app](https://github.com/subrat611/tip-calculator-app)) 
 
 - 🌱 I’m currently learning <b>NodeJS</b> and <b>MongoDB</b>
   
