@@ -10,7 +10,7 @@
 
 - My weekly project [tip-calculator-app](https://github.com/subrat611/tip-calculator-app)
 
-- 🌱 I’m currently learning <b>NodeJS</b> and <b>MongoDB</b>
+- 🌱 I’m currently learning <b>React JS</b> from <b>FrontEnd Master</b>
   
 
 - ❓ Ask me about anything related to <b>Javascript</b>, <b>Vue JS<b>, <b>Nuxt JS</b>.  
