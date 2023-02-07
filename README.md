@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Subrat Jena, a Frontend developer 👨‍💻 .</div>  
   
+- Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
 - 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)
 
