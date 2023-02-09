@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGHrOz0U0gkaw/profile-displaybackgroundimage-shrink_350_1400/0/1650548201350?e=1675900800&v=beta&t=0GofwWY8LxGtM1z2xJxB5yjCrjbBhtGuXqm6rNIi9tQ" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://user-images.githubusercontent.com/77252075/217732344-97c534dc-7f32-477f-85a6-a204782eea22.jpeg" align="center" style="width: 100%" />
+</div>
 
 ### <div align="center">I'm Subrat Jena, a Frontend developer 👨‍💻 .</div>  
   
