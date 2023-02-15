@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)
 
-- My weekly project [URL shortening API landing page](https://github.com/subrat611/URL-shortening-API-landing-page)
+<!-- - My weekly project [URL shortening API landing page](https://github.com/subrat611/URL-shortening-API-landing-page) -->
 
 - 🌱 I’m currently learning <b>React JS</b> from <b>FrontEnd Master</b>
   
