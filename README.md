@@ -6,11 +6,11 @@
   
 - Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
-- 🔭 I’m currently working on [Technorollix'23](https://github.com/subrat611/technorollix23)
+- 🔭 I’m currently working on [OTCON 3.0](https://github.com/subrat611/OTCON3.0)
 
 <!-- - My weekly project [URL shortening API landing page](https://github.com/subrat611/URL-shortening-API-landing-page) -->
 
-- 🌱 I’m currently learning <b>React JS</b> from <b>FrontEnd Master</b>
+- 🌱 I’m currently learning <b>Node JS</b> from <b>Zero To Mastery</b>
   
 
 - ❓ Ask me about anything related to <b>Javascript</b>, <b>Vue JS<b>, <b>Nuxt JS</b>.  
