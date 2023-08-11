@@ -21,7 +21,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/cyberchild.png" alt="TryHackMe">
 
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -60,25 +59,9 @@
 </tr>
 </table>  
 
-<br/>  
-  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/subrat611" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/subratkumarjena" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
+<br/> 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subrat611&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+[![subrat611's GitHub | Languages Over Time](https://stats.quine.sh/subrat611/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subrat611)
+[![subrat611's GitHub | Stats](https://stats.quine.sh/subrat611/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subrat611)
 <!-- <a href="https://app.daily.dev/Sj"><img src="https://api.daily.dev/devcards/92c8ab287bbf464db828a1c92b905a61.png?r=eq6" width="400" alt="Subrat kumar jena's Dev Card"/></a> -->
