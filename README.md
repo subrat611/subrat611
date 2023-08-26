@@ -6,7 +6,7 @@
   
 - Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
-- 🔭 I’m currently working on [OTCON 3.0](https://github.com/subrat611/OTCON3.0)
+- 🔭 I’m currently working on [OPJU Exam Portal v1](Link updated soon..)
 
 <!-- - My weekly project [URL shortening API landing page](https://github.com/subrat611/URL-shortening-API-landing-page) -->
 
