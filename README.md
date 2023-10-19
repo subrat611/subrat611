@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/57138d59-2f3b-4cc9-a1fe-38f89d90ee93" align="center" style="width: 100%" alt="Banner" />
+  <img src="https://github.com/subrat611/subrat611/assets/77252075/a57a2977-a9b7-4639-8b05-7c297ccf3977" align="center" style="width: 100%" alt="Banner" />
 </div>
 
 ### <div align="center">I'm Subrat Jena, a Frontend developer 👨‍💻 .</div>  
