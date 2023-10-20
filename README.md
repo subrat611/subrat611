@@ -2,7 +2,7 @@
   <img src="https://github.com/subrat611/subrat611/assets/77252075/a57a2977-a9b7-4639-8b05-7c297ccf3977" align="center" style="width: 100%" alt="Banner" />
 </div>
 
-<h1>👋 Hi, I'm Subrat!</h1>
+<h1>Hi, I'm Subrat! 👋</h1>
   
 - Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
