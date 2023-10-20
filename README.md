@@ -2,7 +2,8 @@
   <img src="https://github.com/subrat611/subrat611/assets/77252075/a57a2977-a9b7-4639-8b05-7c297ccf3977" align="center" style="width: 100%" alt="Banner" />
 </div>
 
-<h1>Hi, I'm Subrat 👋</h1>
+<br />
+<h1 align="center">Hi, I'm Subrat 👋</h1>
   
 - Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
@@ -17,14 +18,9 @@
   
 
 <br/>  
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyberchild.png" alt="TryHackMe">
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend Tools  
 <div align="center">  
