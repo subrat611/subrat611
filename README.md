@@ -18,10 +18,12 @@
 
 <br/>  
 
-## Tech Stack
+## Tech Stack:
 <div>
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/8d46f28a-60e1-46c2-815d-c2b00b8d3664" alt="typescript" style="height: 30px" />
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/067a8e1c-320b-4b07-8bbd-73e2790d0c4b" alt="javascript" style="height: 30px" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
 </div>
 
 ## My Skill Set  
