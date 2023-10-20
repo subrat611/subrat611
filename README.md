@@ -20,8 +20,8 @@
 
 ## Tech Stack
 <div>
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/8d46f28a-60e1-46c2-815d-c2b00b8d3664" alt="typescript" style="height: 50px" />
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/067a8e1c-320b-4b07-8bbd-73e2790d0c4b" alt="javascript" style="height: 50px" />
+  <img src="https://github.com/subrat611/subrat611/assets/77252075/8d46f28a-60e1-46c2-815d-c2b00b8d3664" alt="typescript" style="height: 30px" />
+  <img src="https://github.com/subrat611/subrat611/assets/77252075/067a8e1c-320b-4b07-8bbd-73e2790d0c4b" alt="javascript" style="height: 30px" />
 </div>
 
 ## My Skill Set  
