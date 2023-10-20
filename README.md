@@ -3,7 +3,7 @@
 </div>
 
 <br />
-<h1 align="center">Hi, I'm Subrat 👋</h1>
+<h1 align="center">👋Hi, I'm Subrat</h1>
   
 - Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
 
