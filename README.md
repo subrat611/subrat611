@@ -4,16 +4,7 @@
 
 <h1 align="center">👋Hi, I'm Subrat</h1>
   
-- Check out my Frontend Mentor Profile [subrat611](https://www.frontendmentor.io/profile/subrat611) 
-
-- 🔭 I’m currently working on [OPJU Exam Portal v1](Link updated soon..)
-
-<!-- - My weekly project [URL shortening API landing page](https://github.com/subrat611/URL-shortening-API-landing-page) -->
-
-- 🌱 I’m currently learning <b>Node JS</b> from <b>Zero To Mastery</b>
-  
-
-- ❓ Ask me about anything related to <b>Javascript</b>, <b>Vue JS<b>, <b>Nuxt JS</b>.  
+<h5>A final year B.Tech student with a keen passion for front-end development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</h5>
   
 
 <br/>  
