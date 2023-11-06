@@ -4,7 +4,7 @@
 
 <h1 align="center">👋Hi, I'm Subrat</h1>
   
-<h4>A final year B.Tech student with a keen passion for front-end development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</h4>
+<p>A final year B.Tech student with a keen passion for front-end development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</p>
   
 
 <br/>  
