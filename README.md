@@ -49,6 +49,12 @@
 <br/> 
 
 ## Github Stats  
-[![subrat611's GitHub | Languages Over Time](https://stats.quine.sh/subrat611/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subrat611)
-[![subrat611's GitHub | Stats](https://stats.quine.sh/subrat611/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subrat611)
+<div style="display: flex;">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=subrat611" target="_blank">
+    <img src="https://stats.quine.sh/subrat611/languages-over-time?theme=dark" alt="quine" width="50%" />
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=subrat611" target="_blank">
+    <img src="https://stats.quine.sh/subrat611/github?theme=dark" alt="quine" width="auto" />
+  </a>
+</div>
 <!-- <a href="https://app.daily.dev/Sj"><img src="https://api.daily.dev/devcards/92c8ab287bbf464db828a1c92b905a61.png?r=eq6" width="400" alt="Subrat kumar jena's Dev Card"/></a> -->
