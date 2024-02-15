@@ -46,15 +46,4 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </div> 
 
-<br/> 
-
-## Github Stats  
-<div style="display: flex;">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=subrat611" target="_blank">
-    <img src="https://stats.quine.sh/subrat611/languages-over-time?theme=dark" alt="quine" width="50%" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=subrat611" target="_blank">
-    <img src="https://stats.quine.sh/subrat611/github?theme=dark" alt="quine" width="auto" />
-  </a>
-</div>
-<!-- <a href="https://app.daily.dev/Sj"><img src="https://api.daily.dev/devcards/92c8ab287bbf464db828a1c92b905a61.png?r=eq6" width="400" alt="Subrat kumar jena's Dev Card"/></a> -->
+<br/>
