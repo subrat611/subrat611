@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="https://github.com/subrat611/subrat611/assets/77252075/a57a2977-a9b7-4639-8b05-7c297ccf3977" align="center" style="width: 100%" alt="Banner" />
-</div>
 
-<h1 align="center">👋Hi, I'm Subrat</h1>
+<!-- <div align="center"> -->
+<!--   <img src="https://github.com/subrat611/subrat611/assets/77252075/a57a2977-a9b7-4639-8b05-7c297ccf3977" align="center" style="width: 100%" alt="Banner" /> -->
+<!-- </div> -->
+
+<h1>👋Hi, I'm Subrat</h1>
   
 <p>A final year B.Tech student with a keen passion for front-end development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</p>
 
-<code style="color : purple">Let's connect and explore the endless possibilities in the realm of technology together! 🚀</code>
+<code>Let's connect and explore the endless possibilities in the realm of technology together! 🚀</code>
   
 
 <br/>  
