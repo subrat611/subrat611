@@ -4,8 +4,12 @@
 <!-- </div> -->
 
 <h1>👋Hi, I'm Subrat</h1>
+
+<blockquote> 📝 About me 
+<p></p>
+<p>I'm Subrat Kumar Jena, a final year B.Tech student with a keen passion for frontend development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</p>
   
-<p>A final year B.Tech student with a keen passion for front-end development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</p>
+</blockquote>
 
 <code>Let's connect and explore the endless possibilities in the realm of technology together! 🚀</code>
   
