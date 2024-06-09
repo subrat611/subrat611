@@ -7,7 +7,7 @@
 
 <blockquote> 📝 About me 
 <p></p>
-<p>I'm Subrat Kumar Jena, a final year B.Tech student with a keen passion for frontend development and a touch of backend expertise. I thrive in the world of web technologies, specializing in crafting seamless user experiences and robust applications.</p>
+<p>I am Subrat Kumar Jena, a front-end developer. I specialize in creating seamless user experiences and robust applications within the realm of web technologies.</p>
   
 </blockquote>
 
