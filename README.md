@@ -1,13 +1,4 @@
-## 👋Hi, I'm Subrat
-
-<blockquote> 📝 About me 
-<p></p>
-<p>I am Subrat Kumar Jena, a front-end developer. I specialize in creating seamless user experiences and robust applications within the realm of web technologies.</p>
-  
-</blockquote>
-
-<code>Let's connect and explore the endless possibilities in the realm of technology together! 🚀</code>
-  
+### Hi, I'm Subrat, a Frontend Engineer from India specializing in building scalable and secure web applications.
 
 <br/>  
 
