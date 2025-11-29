@@ -11,7 +11,8 @@ What I'm building right now:
 - Flight booking
 - Portfolio v2
 
-Leetcode: [Profile](https://leetcode.com/u/s1jena/)  [<code>1500+ rating</code>]
-TryHackMe: [Profile](https://tryhackme.com/p/cxburprat.dx0) [<code>Top 3%</code>]
+Profiles:
+- Leetcode: [Profile](https://leetcode.com/u/s1jena/)  [<code>1500+ rating</code>]
+- TryHackMe: [Profile](https://tryhackme.com/p/cxburprat.dx0) [<code>Top 3%</code>]
 
 [More about me](https://subratjena.vercel.app/)
