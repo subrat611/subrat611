@@ -3,7 +3,7 @@ I'm Subrat, a Frontend Engineer with 1.6 years of experience building secure, re
 Previously worked @ [Marktine](https://marktine.com/)
 
 What I'm learning right now:
-- Frontend Architecture & scalable design patterns.
+- Frontend Architecture, Design & Rendering patterns, Frontend System Design.
 - Node.js + Sequelize + MySQL + Docker + kubernetes.
 - Security Engineering through TryHackMe.
 
