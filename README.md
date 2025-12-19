@@ -1,7 +1,5 @@
 I'm Subrat, a Frontend Engineer with 1.6 years of experience building secure, responsive, and scalable web applications. I’m currently working as an **_SDE 1_** @ [TruKKer](https://trukker.com/), focusing on modernizing fintech products.
 
-Previously worked @ [Marktine](https://marktine.com/)
-
 What I'm learning right now:
 - Frontend Architecture, Design & Rendering patterns, Frontend System Design.
 - Node.js + Sequelize + MySQL + Docker + kubernetes.
