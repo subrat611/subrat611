@@ -1,9 +1,10 @@
+`Looking for a new opportunity.`
+
 I'm Subrat, a Frontend Engineer with 2+ years of experience building secure, responsive, and scalable web applications.
 
 What I'm learning right now:
 - Frontend Architecture, Design & Rendering patterns, Frontend System Design.
-- Node.js + Sequelize + MySQL + Docker + kubernetes.
-- Security Engineering through TryHackMe.
+- Node.js + Prisma (ORM) + PostgreSQL.
 
 What I'm building right now:
 - Expense OS
