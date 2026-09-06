@@ -6,8 +6,7 @@ What I'm learning right now:
 - Security Engineering through TryHackMe.
 
 What I'm building right now:
-- Online JavaScript Coding Platform
-- Flight booking
+- Expense OS
 
 Profiles:
 - Leetcode: [Profile](https://leetcode.com/u/s1jena/)  [<code>1500+ rating</code>]
