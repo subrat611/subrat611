@@ -1,3 +1,6 @@
+<img width="2056" height="765" alt="github-banner-profile" src="https://github.com/user-attachments/assets/018cbe8f-ad25-4701-a8d6-85d905db9888" />
+
+
 `Looking for a new opportunity.`
 
 I'm Subrat, a Frontend Engineer with 2+ years of experience building secure, responsive, and scalable web applications.
