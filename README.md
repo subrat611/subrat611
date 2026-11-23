@@ -8,8 +8,9 @@
 I'm Subrat, a Frontend Engineer with 2+ years of experience building secure, responsive, and scalable web applications.
 
 What I'm learning right now:
-- Frontend Architecture, Design & Rendering patterns, Frontend System Design.
-- Node.js + Prisma (ORM) + PostgreSQL.
+- Python 🔨
+- Frontend Architecture, Design & Rendering patterns, Frontend System Design. 🛑 Paused
+- Node.js + Prisma (ORM) + PostgreSQL. 🛑 Paused
 
 What I'm building right now:
 - Expense OS
