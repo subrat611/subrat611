@@ -13,7 +13,7 @@ What I'm learning right now:
 - Node.js + Prisma (ORM) + PostgreSQL. 🛑 Paused
 
 What I'm building right now:
-- Expense OS
+Nothing...
 
 Profiles:
 - Leetcode: [Profile](https://leetcode.com/u/s1jena/)  [<code>1500+ rating</code>]
